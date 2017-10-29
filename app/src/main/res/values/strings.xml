@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name"><Center>RapSimulator</Center></string>
+    <string name="btn_c.game"><h>Продолжить</h></string>
+    <string name="btn_n.game"> <h>Новая игра</h> </string>
+    <string name="btn_settings"><h>Настройки</h></string>
+    <string name="btn_exit"><h>Выйти</h></string>
+
+</resources>
